@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "FoodReach",
+    "slug": "food-assistance",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "icon": null,
+    "scheme": "foodassist",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#0f172a"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0f172a"
+      },
+      "permissions": ["ACCESS_FINE_LOCATION"]
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "placeholder-project-id"
+      },
+      "apiUrl": "http://localhost:8080"
+    }
+  }
+}
+

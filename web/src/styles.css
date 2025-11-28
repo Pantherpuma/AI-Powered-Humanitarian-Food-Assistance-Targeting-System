@@ -1,0 +1,13 @@
+@import "https://cdn.jsdelivr.net/npm/tailwindcss@3.4.14/dist/tailwind.min.css";
+
+:root {
+  font-family: "Inter", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  color: darkblue;
+  background-color: wheat;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+}
+

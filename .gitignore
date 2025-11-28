@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+.venv/
+venv/
+*.pyc
+
+# Node/Expo
+node_modules/
+web/node_modules/
+mobile/node_modules/
+dist/
+web/dist/
+mobile/.expo/
+mobile/.expo-shared/
+
+# Env
+.env
+.env.*
+
+# IDE
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
